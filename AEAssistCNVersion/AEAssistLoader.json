@@ -3,7 +3,15 @@
   "Testing": false,
   "ScheduledForDeletion": false,
   "InstalledFromUrl": "",
+<<<<<<< HEAD
   "WorkingPluginId": "ed2453c5-0fc9-4067-9ce2-85da9b5a75dc",
+=======
+<<<<<<< HEAD
+  "WorkingPluginId": "52be976e-ed0b-4435-a042-beac0e6a4876",
+=======
+  "WorkingPluginId": "0a88a23f-209f-41af-b0d6-d63895cf35a6",
+>>>>>>> d7141bad04cd4b76aad8c406af03e76783b53624
+>>>>>>> b681d44e98bcfb8a73f618a40f91c694f8440cd4
   "IsThirdParty": false,
   "EffectiveVersion": "0.23.10.141",
   "Author": "AE",
